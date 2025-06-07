@@ -48,7 +48,7 @@ The primary objective of this project is to build an interactive Power BI dashbo
 - **Power Query** for data cleaning and transformation  
 - **DAX** for creating calculated columns and measures  
 - **Excel** for initial data review and cleansing
--  
+- 
 ## 🚧 Challenges Faced
 - **Data Integration and Modeling** — Combining sales, supply, and inventory data from multiple sources required careful normalization and establishing accurate relationships between tables.
 - **Data Cleaning** — Handling missing values, inconsistent data formats, and erroneous records to ensure data quality and reliability for analysis.
