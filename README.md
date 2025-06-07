@@ -21,7 +21,7 @@ The primary objective of this project is to build an interactive Power BI dashbo
 
 ## 🖼️ Dashboard Previews
 -<a href="https://github.com/Rupali-2001/-Retail-Supply-Chain-Sales-Analysis/blob/main/retail_dashboard_1.jpg">Dashboard_1</a>
--<a href="https://github.com/Rupali-2001/-Retail-Supply-Chain-Sales-Analysis/blob/main/retail_dashboard2.jpg">Dashboard_1</a>
+-<a href="https://github.com/Rupali-2001/-Retail-Supply-Chain-Sales-Analysis/blob/main/retail_dashboard2.jpg">Dashboard_2</a>
 
 ## 📁 Dataset Used 
 - <a href="https://github.com/Rupali-2001/-Retail-Supply-Chain-Sales-Analysis/blob/main/Retail-Supply-Chain-Sales-Dataset_powerbi.xlsx">Dataset</a>
